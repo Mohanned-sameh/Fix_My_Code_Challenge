@@ -2,6 +2,8 @@
 """
 square class that defines a square
 """
+
+
 class square():
     width = 0
     height = 0
